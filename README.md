@@ -12,7 +12,7 @@ The application offers three classic fortune-telling games in a digital format:
 
 A simulation of pouring wax through a keyhole.
 
-- Users "pour" wax by clicking a key icon1.
+- Users "pour" wax by clicking a key icon.
 - The algorithm randomly selects a shape from a predefined list of SVG paths.
 - Displays the resulting shape and its interpretation (e.g., Cat, House, Money, Cloud, Heart).
 
